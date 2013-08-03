@@ -16,7 +16,7 @@ This plugin just add Custom Payment Gateways for WooCommerce. So you can change 
 
 = More =
 * Thank you for using our plugin.
-* Vist the [blog post](http://royaltechbd.com/woocommerce-custom-payment-gateways/) to know more.
+* Vist the [blog post](http://royaltechbd.com/woocommerce-custom-payment-gateways) to know more.
 * [Give a Rating & Write a Review](http://goo.gl/DmcVcG)
 
 == Installation ==
